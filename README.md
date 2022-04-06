@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riabchenko Vladimir
 - 👀 I’m interested in programming, especially in frontend
 - 🤖 I would like to share with you my pet projects
-  - I did it just for fun. You can see beautiful animation of Maths https://codepen.io/regeneratorl/full/GVYvKE
-  - Soon it will be done and you will be able to get HTML and CSS for synchronized animation of skeleton https://ryabv.github.io/animasync/
+  - 📖 https://codepen.io/regeneratorl/full/GVYvKE I did it just for fun. You can see beautiful animation of Maths
+  - 🕺🏽 https://ryabv.github.io/animasync/ Soon it will be finished and you will be able to get HTML and CSS for synchronized animation of skeleton 
 - 📫 How to reach me: 79854322262@yandex.ru
