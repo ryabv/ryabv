@@ -3,4 +3,4 @@
 - 🤖 I would like to share with you my pet projects
   - 📖 https://codepen.io/regeneratorl/full/GVYvKE I did it just for fun. You can see beautiful animation of Maths
   - 🕺🏽 https://ryabv.github.io/animasync/ Soon it will be finished and you will be able to get HTML and CSS for synchronized animation of skeleton 
-- 📫 How to reach me: 79854322262@yandex.ru
+- 📫 How to reach me: vla.riabchenko@gmail.com
